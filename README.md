@@ -14,3 +14,9 @@ With the dataset, we want to understand the business insights and metrics that c
 * What are the important metrics to analyze for each segmentation breakdown? (i.e. genre, category, year, etc.) 
 * Is there a correlation between the total gross of a movie compared to that of the other attributes within the dataset? 
 
+## Segmentation Analysis 
+
+The first segmentation analysis performed to analyze the key metrics for was the year bracket. 
+
+
+
