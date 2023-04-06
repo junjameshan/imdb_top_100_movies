@@ -18,5 +18,14 @@ With the dataset, we want to understand the business insights and metrics that c
 
 The first segmentation analysis performed to analyze the key metrics for was the year bracket. 
 
+### Total Gross per Year Bracket 
 
+![image](https://user-images.githubusercontent.com/123096758/230493044-cb76a9a3-79e3-4adb-a7f0-05d29f8a92f9.png)
 
+The pie chart visualizes the total percentage breakdown for the total gross that movies generated based on the year brackets that the movies fall under based on their release date. 
+
+* The highest year bracket from **1990-2019** generated **8,521.3 (Million $)** with **61 movies** being released during this time period. 
+* The second highest year bracket from **1960-1989** generated **2,648.3 (Million $)** with **24 movies** being released during this time period. 
+* The lowest year bracket from **1930-1959** generated **343.51 (Million $)** with **14 movies** being released during this time period. 
+
+### Total Gross per Movie Genre 
