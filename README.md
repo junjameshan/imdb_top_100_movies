@@ -29,3 +29,32 @@ The pie chart visualizes the total percentage breakdown for the total gross that
 * The lowest year bracket from **1930-1959** generated **343.51 (Million $)** with **14 movies** being released during this time period. 
 
 ### Total Gross per Movie Genre 
+
+![image](https://user-images.githubusercontent.com/123096758/230494464-11ae42ef-6437-4faf-b832-1ee1015a5fb5.png)
+
+The column chart visualizes the total gross earnings based on the 9 genres of the movies. 
+
+* **Action, Drama and Crime** generated the most revenue with a count of **25, 22 and 16** respectively for each genre. 
+* In terms of the IMDB Ratings, **Action, Drama and Horror** had the highest average ratings of **8.36, 8.35 and 8.35** respectively.
+
+### Total Gross per Movie Category 
+
+![image](https://user-images.githubusercontent.com/123096758/230494839-af7f170b-e2ed-410f-a5b5-1bc063da6818.png)
+
+The column chart visualizes the total gross earnings based on the 7 movie catergory ratings. 
+
+* The top 3 movie categories based on total gross earnings are **PG-13, R, and PG.** 
+* In terms of the IMDB Ratings, movies in the **Approved** category had the highest average rating of **8.55** followed by **PG-13** with **8.42** and **PG** with **8.38.**
+
+
+
+
+
+
+
+
+
+
+
+
+
