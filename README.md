@@ -80,7 +80,13 @@ Based on the results of the analysis, I have concluded a few key findings:
 
 3. PG-13 rated movies are more family friend and can cater to a larger demographic while Rated R movies will be a close second in its popularity amongst fans. 
 
+## References 
 
+[Jupyter Notebook for Regression Analysis](https://github.com/junjameshan/imdb_top_100_movies/blob/main/IMDb_Movies.ipynb)
+
+[SQL Queries for Segmentation Analysis](https://github.com/junjameshan/imdb_top_100_movies/blob/main/SQL%20Queries.md)
+
+[Dataset for IMDB Movies](https://github.com/junjameshan/imdb_top_100_movies/blob/main/data/IMDB%20Top%20100%20Movies.csv)
 
 
 
